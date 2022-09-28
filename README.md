@@ -7,7 +7,7 @@
 Post your Work on Github
 
 ### Description
-post my project bikeshare.py on Github. This python program takes chicago.csv, new_york_city.csv and washington.csv as the input, and the output of the program is the corresponding statistics for each city's bikeshare system.
+post my project bikeshare.py on Github. This python program takes **chicago.csv**, **new_york_city.csv** and **washington.csv** as the input, and the output of the program is the corresponding statistics for each city's bikeshare system.
 
 ### Files used
 bikeshare.py
