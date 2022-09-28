@@ -11,7 +11,10 @@ post my project *bikeshare.py* on Github. This python program takes **chicago.cs
 
 ### Files used
 *bikeshare.py*
+**chicago.csv**
+**new_york_city.csv**
+**washington.csv**
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Requirements
+This program was written in Python (version 3.7.1) and relies on the libraries numpy and pandas
 
